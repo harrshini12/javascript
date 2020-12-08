@@ -35,4 +35,4 @@ let remainder7 = Number(r7String);
 let secretNumber = (remainder3 * 70 + remainder5 * 21 + remainder7 * 15) % 105;
 
 console.log("The number you thought of is... " + secretNumber);
-console.log("I am amazing, right?")
+console.log("I am amazing, right?");
