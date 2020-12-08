@@ -8,6 +8,7 @@ let driverCost = passengerCost - driverDiscount;
 
 console.log(passengerCost);
 console.log(driverCost);
+
 // should be 15
 console.log(passengerCost - driverCost);
 
